@@ -1,2 +1,2 @@
-# imdbmoviesproject
+# Investigate Imdb Movies Dataset
 This is my readme...
