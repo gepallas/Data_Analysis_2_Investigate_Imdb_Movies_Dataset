@@ -27,4 +27,4 @@ Research questions that have been explored:
 
 - Python
 - Libraries: Pandas, NumPy, MatPlotlib, Seaborn
-- Jupyter Notebooks
+- Jupyter Notebook
