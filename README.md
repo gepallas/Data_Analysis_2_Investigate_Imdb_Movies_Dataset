@@ -1,16 +1,16 @@
 # Investigate Imdb Movies Dataset
-This project has been completed as part of the [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program requirements.
+This project has been completed as part of the [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) requirements.
 
 ## Overview
 The imdb movies dataset has been analyzed and an exploratory analysis has been performed.
 
 - First, a data screening has been performed and research questions have been identified.
 
-- Secondly, data have been cleaned and relevant variables to answer the research questions have been selected.
+- Secondly, the data have been cleaned and relevant variables to answer the research questions have been selected.
 
 - Then, an exploratory data analysis (EDA) has been performed to identify correlations between variables and revenues and profits.
 
-- Finally, detailed visulizations present the findings.
+- Finally, detailed visulizations present the findings, and conclusions and limitations are discussed.
 
 Research questions that have been explored:
 
