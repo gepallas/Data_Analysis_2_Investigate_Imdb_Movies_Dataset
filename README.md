@@ -26,6 +26,5 @@ Research questions that have been explored:
 ## Technologies used
 
 - Python
-	- Jupyter Notebooks
-	- Libraries: Pandas, NumPy, MatPlotlib, Seaborn
-
+- Libraries: Pandas, NumPy, MatPlotlib, Seaborn
+- Jupyter Notebooks
