@@ -2,7 +2,7 @@
 This project has been completed as part of the [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) requirements.
 
 ## Overview
-The imdb movies dataset has been analyzed and an exploratory analysis has been performed.
+The imdb movies dataset has been analyzed and an *Exploratory Data Analysis* has been performed.
 
 - First, a data screening has been performed and research questions have been identified.
 
