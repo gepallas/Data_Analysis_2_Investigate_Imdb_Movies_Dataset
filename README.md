@@ -29,8 +29,8 @@ Research questions that have been explored:
 - Libraries: Pandas, NumPy, MatPlotlib, Seaborn
 - Jupyter Notebook
 
-## Snapshot from the analysis
-The following Figure shows revenues, profits, budget, number of movies and average revenues for the top 10 directors, as well as losses of the worst 10 directors.
+## Snapshot from the Exploratory Data Analysis
+The following Figure shows the revenues, profits, budget, number of movies and average revenues for the top 10 directors, as well as the losses of the worst 10 directors.
 
 <p align="center">
   <img src="https://github.com/gepallas/DAND_Project2_Investigate_Imdb_Movies_Dataset/blob/master/images/image1.png?raw=true" alt="Snapshot from the analysis"/>
@@ -50,3 +50,12 @@ Additional metrics or scores would be nice to be explored. For instance, if we d
 
 Additional metrics, as well as analyzing more variables in the dataset can provide new insights that can be used to predict the success of future movies.
 
+The following Figure shows the number of movies and revenues for the top 10 directors by revenues.
+
+<p align="center">
+  <img src="https://github.com/gepallas/DAND_Project2_Investigate_Imdb_Movies_Dataset/blob/master/images/image2.png?raw=true" alt="Snapshot from the analysis"/>
+</p>
+
+We can again see in this Figure that Steven Spielberg is by far the director with the highest revenues. Compared to the rest top 9 directors with high revenues, Steven Spielberg has produced more movies. Nevertheless, the total revenues of Spielberg are impressive. We can also observe something we noticed in the previous Figure. On average, James Cameron has higher revenues. We can see here that Spielberg has directed 3 times more movies compared to Cameron. However, the total revenues from these movies are not 3 times higher, making Cameron the director with the highest average revenues.
+
+Finally, I would add that depending on the audience and the message that one wants to communicate, selecting the most appropriate graph that clearly presents that message is of high importance.
